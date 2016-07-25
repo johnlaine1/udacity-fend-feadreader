@@ -9,6 +9,7 @@ A project created and submitted to Udacity as part of the Front End Developer Na
 1. Clone the project to your local machine: `https://github.com/johnlaine1/udacity-fend-feedreader`
 2. cd into the project `cd udacity-fend-feedreader`
 3. Run the index.html file.
+4. A live version of this project can be viewed at: `https://johnlaine1.github.io/udacity-fend-feadreader/`
 
 
 
